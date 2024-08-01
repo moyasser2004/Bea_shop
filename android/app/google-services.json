@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "864878952472",
+    "project_id": "shopapp-a7375",
+    "storage_bucket": "shopapp-a7375.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864878952472:android:ac74dfbc3c0eaad1ff836d",
+        "android_client_info": {
+          "package_name": "com.example.bea_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxuK-NZLsRWlUtySQrjk3P257bSmTmT04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864878952472:android:9017f697688a7555ff836d",
+        "android_client_info": {
+          "package_name": "com.mohamed_shop.bea"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxuK-NZLsRWlUtySQrjk3P257bSmTmT04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864878952472:android:cbd19d755b949a3eff836d",
+        "android_client_info": {
+          "package_name": "memo.yasser_bea_shop.com.bea_shop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxuK-NZLsRWlUtySQrjk3P257bSmTmT04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
